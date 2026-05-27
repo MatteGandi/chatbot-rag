@@ -1,14 +1,14 @@
 streamlit
 
-llama-index
+llama-index==0.14.22
 
-llama-index-llms-groq
+llama-index-core==0.14.22
 
-llama-index-embeddings-fastembed
+llama-index-llms-gemini==0.6.2
 
-fastembed
+llama-index-embeddings-fastembed==0.6.0
 
-llama-index-llms-gemini
+fastembed==0.8.0
 
 plotly
 
@@ -16,8 +16,6 @@ pandas
 
 bcrypt
 
-Pillow
-
-matplotlib
+Pillow==10.4.0
 
 wordcloud
