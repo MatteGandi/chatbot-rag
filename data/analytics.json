@@ -1,0 +1,310 @@
+[
+  {
+    "timestamp": "2026-05-24 20:01:28.312583",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "what is the difference between a flow process chart and a value stream map?",
+    "sources_cited": [
+      "01_Flow_process_chart_VSM_IDEF0_with_solutions_MG.md",
+      "01_transcribed_vsm_theory.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:02:25.211941",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "risolvi l'esercizio 1 sul processo della produzione dei pallet",
+    "sources_cited": [
+      "01_Flow_process_chart_VSM_IDEF0_with_solutions_MG.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:03:04.767582",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "show me the swing metaphor diagram",
+    "sources_cited": [
+      "1.0Intro_Formalisms & Flow_Process_Chart_Theory.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:14:06.789755",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "Show me the swing metaphor diagram",
+    "sources_cited": [
+      "01_transcribed_intro_formalisms_flow_process_chart_theory.md",
+      "01_Flow_process_chart_VSM_IDEF0_with_solutions_MG.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:24:12.693560",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "show me image_03",
+    "sources_cited": [
+      "02_SO_Factory_Performance.md",
+      "01_Flow_process_chart_VSM_IDEF0_with_solutions_MG.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:24:47.172947",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "mostrami l'immagine del diagramma della metafora dello swing",
+    "sources_cited": [
+      "01_Flow_process_chart_VSM_IDEF0_with_solutions_MG.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:25:31.984076",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "solve exercise 1 about the pallet production process using flow process chart",
+    "sources_cited": [
+      "01_SO_FPC_VSM_IDEF0.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:27:55.789424",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "calculate the production lead time and the value added lead time for the boiler assembly process",
+    "sources_cited": [
+      "1.2.0-VSM_Theory.md",
+      "1.2.2-VSM_Exercise.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:54:00.286264",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "calculate the production lead time and value added lead time for the boiler assembly process",
+    "sources_cited": [
+      "01_SO_FPC_VSM_IDEF0.md",
+      "1.2.0-VSM_Theory.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:56:58.336628",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "spiegami la legge di little",
+    "sources_cited": [
+      "2.1_Introduction, Little_s Law & Exercises.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:57:17.035084",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "mi fai un esempio di esercizi sulla legge di little",
+    "sources_cited": [
+      "2.1_Introduction, Little_s Law & Exercises.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 20:58:03.678254",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "approfondisci meglio su cosa significa lambd",
+    "sources_cited": [
+      "2.1_Introduction, Little_s Law & Exercises.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 21:11:02.864113",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "parlami della vsm",
+    "sources_cited": [
+      "5_Key_Characteristics_of_VSM.md",
+      "6_Main_Symbols_in_Value_Stream_Mapping.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 21:13:13.193864",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "mi puoi mostrare un immagine sulla vsm?",
+    "sources_cited": [
+      "28_VSM_Diagram.md",
+      "29_Formalism_VSM_symbols.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 21:19:30.899876",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "mostra l'immagine 17 in image 01",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-24 21:25:15.477392",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "parlami della vsm",
+    "sources_cited": [
+      "5_Key_Characteristics_of_VSM.md",
+      "6_Main_Symbols_in_Value_Stream_Mapping.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 21:25:38.948473",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "che tempo fa oggi",
+    "sources_cited": [
+      "1.2.0-VSM_Theory.md",
+      "1.2.2-VSM_Exercise.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 21:26:28.543313",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "calculate the production lead time and the value added lead time for the boiler assembly process",
+    "sources_cited": [
+      "1.2.0-VSM_Theory.md",
+      "1.2.2-VSM_Exercise.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-24 22:31:58.560864",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "parlami della vsm",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-24 22:59:38.914464",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "parlami della vsm",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-24 23:00:10.461836",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "crea un esercizio sulla legge di little",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-24 23:01:09.455708",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "dammi la soluzione adesso",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:02:44.060397",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "parlami della vsm",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:07:12.033951",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "parlami della vsm",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:16:16.154200",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "parlami della vsm",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:16:45.431754",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "legge di little",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:17:52.809524",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "non riesco a calcolare throuput, ho lambda e wip",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:19:56.154420",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "Ho un esercizio: una stazione ha WIP = 20, tempo medio di inter-arrivo = 19 minuti, tempo in coda = 6 ore. Devo trovare il tempo medio di processing. Non so da dove iniziare",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:21:00.820136",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "voglio fare un quiz sul capitolo 2, vsm e little's law",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:31:28.343728",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "Ho un esercizio: una stazione ha wip=20, tempo medio di inter-arrivo 19 minuti, tempo in coda = 6 ore. Devo trovare il tempo medio di processing. non so da dove iniziare",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:32:31.935966",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "non ho ancora capito",
+    "sources_cited": [
+      "02_slides_additional_introduction_littles_law_exercises.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-27 22:32:49.706009",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "la legge di little",
+    "sources_cited": [
+      "02_slides_additional_introduction_littles_law_exercises.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-27 22:33:10.250054",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "No",
+    "sources_cited": [
+      "02_slides_additional_introduction_littles_law_exercises.md"
+    ]
+  },
+  {
+    "timestamp": "2026-05-27 22:34:02.639096",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "voglio fare un quiz sul capitolo 2, little's law",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:34:56.367626",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "C",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:35:18.562315",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "Si",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:37:31.356702",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "aumenta",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:41:18.293372",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "voglio fare un quiz su little's laww",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:48:08.228760",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "voglio fare un quiz sul capitolo 2",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:51:02.217722",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "capitolo 2",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:51:28.699217",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "2",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:51:41.841623",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "si",
+    "sources_cited": []
+  },
+  {
+    "timestamp": "2026-05-27 22:52:11.934831",
+    "user_email": "s331487@studenti.polito.it",
+    "query": "c",
+    "sources_cited": []
+  }
+]
