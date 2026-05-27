@@ -8,6 +8,8 @@ llama-index-embeddings-fastembed
 
 fastembed
 
+llama-index-llms-gemini
+
 plotly
 
 pandas
