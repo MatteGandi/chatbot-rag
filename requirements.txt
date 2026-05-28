@@ -4,7 +4,7 @@ llama-index==0.14.22
 
 llama-index-core==0.14.22
 
-llama-index-llms-gemini
+llama-index-llms-gemini==0.6.2
 
 llama-index-embeddings-huggingface
 
