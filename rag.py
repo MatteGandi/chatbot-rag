@@ -20,7 +20,7 @@ from llama_index.core import (
 
 from llama_index.llms.gemini import Gemini
 
-from llama_index.embeddings.fastembed import FastEmbedEmbedding
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
  
 
@@ -184,7 +184,7 @@ def load_index():
 
  
 
-    Settings.embed_model = FastEmbedEmbedding(
+    Settings.embed_model = HuggingFaceEmbedding(
 
         model_name="BAAI/bge-small-en-v1.5"
 
